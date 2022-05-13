@@ -7,7 +7,6 @@
 </head>
 <body>
 <div id='container'>
-
   <div class='signup'>
   <h1 style="color:black;">Bienvenue sur notre site</h1>
      <form action="../PagesPublic/loginController.jsp" method="post">
